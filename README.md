@@ -1,5 +1,3 @@
-Hrrggh what am i doig
-  
+this is me in real life
       
 ![](https://github.com/bmai1/bmai1/blob/main/catss.jpeg)     
-![](https://github.com/bmai1/bmai1/blob/main/hanekawa.gif)
