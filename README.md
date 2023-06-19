@@ -7,3 +7,4 @@ to-do:
 - victory screen and popup
 - play again button
 - adjustable color themes
+- label timer and move count
