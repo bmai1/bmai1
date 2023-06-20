@@ -9,3 +9,5 @@ to-do:
 - adjustable color themes
 - label timer and move count
 - optimize audio player
+
+practice: https://bmai1.github.io/waifu-cards/
