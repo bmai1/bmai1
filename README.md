@@ -11,4 +11,4 @@ to-do:
 - optimize audio player ✔
 - add 5x5, 10x10 ✔
 
-practice: https://bmai1.github.io/waifu-cards/
+animations practice: https://bmai1.github.io/waifu-cards/
