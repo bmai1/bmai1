@@ -1,6 +1,6 @@
 currently working on: 
 - 15 puzzle remake: https://bmai1.github.io/
-- e-commerce simulation: https://bmai1.github.io/amazon/
+- e-commerce simulation (amazon): https://bmai1.github.io/amazon/
 - gacha game simulation: https://bmai1.github.io/waifu-cards/
 
 to-do:
