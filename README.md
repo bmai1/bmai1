@@ -12,4 +12,3 @@ to-do:
 - add 5x5, 10x10 ✔
 - bestTimeHandler localStorage ✔
 
-animations practice: https://bmai1.github.io/waifu-cards/
