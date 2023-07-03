@@ -18,4 +18,4 @@ future projects:
 - upload cli to npm as npx (revive encounter?)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=rose)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula)
