@@ -3,15 +3,16 @@ currently working on:
 - e-commerce simulation (amazon): https://bmai1.github.io/amazon/
 - card rolling simulator aka gacha: https://bmai1.github.io/waifu-cards/
 
-to-do:
-- better button ui
-- more satisfying sfx
-- adjustable color themes
-- select background music ✔
-- victory screen and popup ✔
-- play again button ✔
-- label timer and move count ✔
-- optimize audio player ✔
-- add 5x5, 10x10 ✔
-- bestTimeHandler localStorage ✔
+misc to-learn:
+- ajax / jquery docs
+- frontend frameworks (flask, electron)
+- backend + database management
+- networking, architecture
+- cleaner LC solution process
 
+future projects:
+- redo stock manager with flask, sql, jinja
+- update riemann calculator to be general purpose, graph renderer
+- new levels and mechanics with C# in unity platformer
+- new scenes for ren'py visual novel
+- upload cli to npm as npx (revive encounter?)
