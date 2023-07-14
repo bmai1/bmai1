@@ -1,3 +1,5 @@
+portfolio site: https://bmai1.github.io/
+
 currently working on: 
 - modded 15 (24, 99) puzzle: https://bmai1.github.io/99-puzzle/
 - e-commerce simulation (amazon): https://bmai1.github.io/amazon/
