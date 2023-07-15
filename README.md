@@ -1,4 +1,5 @@
 about me: https://bmai1.github.io/
+
 learning:
 - web frameworks (bootstrap, flask, next.js, electron)
 - backend + database management with sql 
@@ -11,7 +12,6 @@ to-do && doing:
 - C# mechanics (gem count, npc interaction)
 - act 2 script for tsu
 - upload cli game [encounter] to npm with npx
-- finish portfolio site
 
 ![cute catgirl :3](hanekawa.gif)
 <br>
