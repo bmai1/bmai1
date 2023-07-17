@@ -1,7 +1,7 @@
 about me: https://bmai1.github.io/
 
 learning:
-- web frameworks (bootstrap, flask, next.js, electron)
+- web frameworks (django, next.js, bootstrap, flask, electron)
 - backend + database management with sql 
 - networking / architecture
 - cleaner LC solution process -> build intuition
