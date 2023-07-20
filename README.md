@@ -12,7 +12,9 @@ to-do && doing:
 - C# mechanics (gem count, npc interaction)
 - act 2 script for tsu
 - upload cli game [encounter] to npm with npx
+<br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula)
+<br>
 
 ![cute catgirl :3](hanekawa.gif)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula)
