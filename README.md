@@ -7,7 +7,7 @@ learning:
 - cleaner LC solution process -> build intuition
 
 to-do && doing:
-- clean up stock manager w/ flask, sql, jinja
+- stock manager w/ flask, sql, jinja ✔️
 - graph renderer for riemann sum calculator 
 - C# mechanics (gem count, npc interaction)
 - finish act 2 script for tsu
