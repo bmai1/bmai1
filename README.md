@@ -1,4 +1,4 @@
-about me: https://bmai1.github.io/
+about me: <a href="https://bmai1.github.io/" target="_blank">ball</a>
 
 learning:
 - web frameworks (django, next.js, flask, electron)
