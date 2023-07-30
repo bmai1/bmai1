@@ -11,6 +11,7 @@ to-do && doing:
 - graph renderer for riemann sum calculator 
 - C# mechanics (gem count, npc interaction)
 - finish act 2 script for tsu
+- blender lmao
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula)
 <br>
