@@ -12,7 +12,8 @@ to-do && doing:
 - C# game mechanics (gem count, npc interaction)
 - write act 2 script for tsu or finish encounter.js
 - e2m3c, synowyn apiReq + render
-  
+<br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula)
 <br>
 
