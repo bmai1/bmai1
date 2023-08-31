@@ -1,4 +1,4 @@
-i am a hobbyist programmer probably <br>
+hobbyist programmer probably <br>
 proficient in zero (0) languages <br>
 more about me: <a href="https://bmai1.github.io/" target="_blank">maidq</a>
 
