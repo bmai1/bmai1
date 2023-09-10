@@ -1,9 +1,13 @@
-hobbyist programmer probably <br>
-proficient in zero (0) languages <br>
-more about me: <a href="https://bmai1.github.io/" target="_blank">maidq</a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula)
+&nbsp;&nbsp;hobbyist programmer probably, proficient in zero (0) languages
 <br>
-![nag](https://github.com/bmai1/bmai1/assets/104703637/47603530-ffe0-4f66-8702-ebb02874bbe4)
+&nbsp;&nbsp;<a href="https://bmai1.github.io/" target="_blank">maidq</a> <--- more about me, currently learning frameworks & stuff
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmai1&layout=compact&theme=dracula) &nbsp;
+![yu](https://github.com/bmai1/bmai1/assets/104703637/743ba0ef-748b-419f-85f7-ee9a33910a86) 
+<br>
+![LeetCode Stats](https://leetcard.jacoblin.cool/brianmai?theme=nord&font=Roboto)
+
+
+
 
 
