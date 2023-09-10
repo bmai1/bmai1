@@ -6,11 +6,3 @@
 ![yu](https://github.com/bmai1/bmai1/assets/104703637/743ba0ef-748b-419f-85f7-ee9a33910a86) 
 <br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/brianmai?theme=nord&font=Roboto)
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/kiyo_ko?theme=unicorn&font=Roboto&ext=contest)
-
-
-
-
-
-
