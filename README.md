@@ -1,6 +1,4 @@
-<a href="https://bmai1.github.io/" target="_blank">about me</a>
-<br>
-hobbyist programmer probably, proficient in zero (0) languages
+hobbyist programmer <a href="https://bmai1.github.io/" target="_blank">probably</a>, proficient in zero (0) languages
 
 
 
