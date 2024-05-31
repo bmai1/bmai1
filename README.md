@@ -1,4 +1,4 @@
-hobbyist programmer <a href="https://bmai1.github.io/" target="_blank">probably</a>, proficient in zero (0) languages
+hobbyist programmer, proficient in zero (0) languages
 
 
 
