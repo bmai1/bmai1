@@ -1,1 +1,1 @@
-i need to learn how to code
+my future occupation is corpse in ocean
