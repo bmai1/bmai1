@@ -4,7 +4,7 @@
 - I'm interested in music, machine learning, robotics, networking, and systems programming.
 - I was born with a pair of Sennheiser HD 600s strapped to my skull.
 - Somehow I have a YouTube channel with 93,000 subscribers where I share and talk about music I like.
-- My favorite album of all time is The Pavilion of Dreams (1978) by Harold Budd and Brian Eno.
+- My favorite album of all time is _The Pavilion of Dreams_ (1978) by Harold Budd and Brian Eno.
 
 
 <table>
