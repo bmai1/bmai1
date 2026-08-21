@@ -10,7 +10,7 @@
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=KSEpSpIrt98">
+      <a href="https://www.youtube.com/watch?v=KSEpSpIrt98" target="_blank">
         <img src="https://github.com/user-attachments/assets/c0ec88ea-062a-4ed1-8b1b-22c52f3f6e6a" width="350">
       </a>
     </td>
