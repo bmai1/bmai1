@@ -6,4 +6,13 @@
 - Somehow I have a YouTube channel with 93,000 subscribers where I share and talk about music I like.
 - My favorite album of all time is The Pavilion of Dreams (1978) by Harold Budd and Brian Eno.
 
-[![Pavilion of Dreams - Harold Budd, Brian Eno](https://github.com/user-attachments/assets/fb228480-166c-40ac-b56a-7ef5ba3d36f8)](https://www.youtube.com/watch?v=VIDEO_ID)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=KSEpSpIrt98">
+        <img src="https://github.com/user-attachments/assets/c0ec88ea-062a-4ed1-8b1b-22c52f3f6e6a" width="350">
+      </a>
+    </td>
+  </tr>
+</table>
