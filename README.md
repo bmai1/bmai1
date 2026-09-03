@@ -1,8 +1,7 @@
 ## Hi!
 
 
-- I'm a software engineering student who likes building practical software tools.
-- I'm interested in music, machine learning, robotics, networking, and systems programming.
+- I'm a software engineering student interested in music, machine learning, robotics, networking, and systems programming.
 - Somehow, I've accumulated 95,000 subscribers on a YouTube channel where I share and talk about music I like.
 - My favorite album of all time is _The Pavilion of Dreams_ (1978) by Harold Budd and Brian Eno.
 
